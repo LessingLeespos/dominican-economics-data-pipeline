@@ -1,0 +1,10 @@
+raw/*
+*.csv
+*.xlsx
+*.xlsm
+*.json
+*.log
+*.env
+*.key
+__pycache__/
+*.pyc
