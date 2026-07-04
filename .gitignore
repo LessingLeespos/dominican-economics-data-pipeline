@@ -1,10 +1,20 @@
-raw/*
+# Edition swap file
+*.swp
+*.swo
+
+# Excel files
 *.csv
 *.xlsx
 *.xlsm
+
+# Raw data
+raw/*
 *.json
 *.log
+# Credentials
 *.env
 *.key
+
+# Python cache
 __pycache__/
 *.pyc
