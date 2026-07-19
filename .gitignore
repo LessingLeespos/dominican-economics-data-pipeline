@@ -18,3 +18,6 @@ raw/*
 # Python cache
 __pycache__/
 *.pyc
+
+#Dashboard Excel
+!Economic\ Data\ Dominican\ Republic.xlsm
