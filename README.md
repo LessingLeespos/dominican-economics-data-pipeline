@@ -2,7 +2,7 @@
 
 ## Overview
 This project aims to demostrate a full data workflow apply to economics: 
-**Ingested macroeconomic datasets from bancentral.gov.do**
+**Ingested macroeconomic data from bancentral.gov.do**
 - GDP, GDP PPP and GDP Growth
 - Public and Private dept
 - Exports and inports
