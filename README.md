@@ -2,13 +2,13 @@
 
 ## Overview
 This project aims to demostrate a full data workflow apply to economics: 
-<<<<<<< HEAD
+
 **Ingest macroeconomic data from bancentral.gov.do**
-=======
-**Ingested macroeconomic data from bancentral.gov.do**
->>>>>>> feature/structurev1.1
 - GDP, GDP PPP and GDP Growth
 - Inflation/monetary policy
+- Foreign investment
+- Human resorces
+- Public dept
 
 ## Technologies
 - Python (scraping, ETL, automation)
