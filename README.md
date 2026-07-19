@@ -8,11 +8,7 @@ This project aims to demostrate a full data workflow apply to economics:
 **Ingested macroeconomic data from bancentral.gov.do**
 >>>>>>> feature/structurev1.1
 - GDP, GDP PPP and GDP Growth
-- Public and Private dept
-- Exports and inports
-- Inflation, monetary policy and interest rate
-- foreign and Local investment
-- Employment and Poverty
+- Inflation/monetary policy
 
 ## Technologies
 - Python (scraping, ETL, automation)
@@ -25,20 +21,18 @@ This project aims to demostrate a full data workflow apply to economics:
 - `clean/` → cleaned datasets
 - `sql/` → SQL schema and scripts
 - `scripts/` → Python pipeline scripts
-- `excel/` → dashboards
-- `docs/` → documentation, analytics and captures
 
 ## Workflow
 1. Scrape → `raw/`
 2. Clean → `clean/`
-3. Load → SQL Server
-4. Export → Excel Power Query
+3. Load → SQL Server Tracking Data
+4. Import → Excel Power Query
 5. Visualize → Descriptive and Predictive Excel dashboards
 6. Analytics → Written dignostics and prescriptive analysis
 
 ## Objectives
 - Modular Python scripts for reproducibility
-- SQL schema design for relational storage
-- Logging and error handling in ETL
+- SQL schema design for scrape tracking storage
+- Logging and error handling in ELT
 - Version control with Git and GitHub
 - Future: scheduling jobs for automation
