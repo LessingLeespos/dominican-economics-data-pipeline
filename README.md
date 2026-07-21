@@ -1,13 +1,13 @@
 # Dominican Republic Economic Data by JUN 2026 PROJECT
 
 ## Overview
-This project aims to demostrate a full data workflow apply to economics: 
+This project aims to demonstrate a full data workflow apply to economics: 
 **Ingest macroeconomic data from bancentral.gov.do**
-- GDP, GDP PPP and GDP Growth
+- GDP and GDP Growth
 - Inflation/monetary policy
 - Foreign investment
-- Human resorces
-- Public dept
+- Human resources
+- Public debt
 
 ## Technologies
 - Python (scraping, ETL, automation)
