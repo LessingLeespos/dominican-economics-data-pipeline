@@ -1,5 +1,5 @@
 # Dominican Republic Economic Data by JUN 2026 PROJECT
-![Dominican Republic Economics Dashboard](assets/home.png)
+![Dominican Republic Economics Dashboard](assets/General.PNG)
 
 ## Overview
 This project aims to demonstrate a full data workflow apply to economics: 
