@@ -1,4 +1,4 @@
-# Dominican Republic Economic Data by JUN 2026 PROJECT
+# Dominican Republic Economic Data by JUN 2026
 ![Dominican Republic Economics Dashboard](assets/General.PNG)
 
 ## Overview
